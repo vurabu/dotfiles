@@ -1,0 +1,39 @@
+*background: #fdf6e3
+*foreground: #839496
+!*fading: 40
+*fadeColor: #fdf6e3
+*cursorColor: #586e75
+*pointerColorBackground: #93a1a1
+*pointerColorForeground: #586e75
+
+! Black dark/light
+*color0: #eee8d5
+*color8: #fdf6e3
+
+! Red dark/light
+*color1: #dc322f
+*color9: #cb4b16
+
+! Green dark/light
+*color2: #859900
+*color10: #93a1a1
+
+! Yellow dark/light
+*color3: #b58900
+*color11: #839496
+
+! Blue dark/light
+*color4: #268bd2
+*color12: #657b83
+
+! Magenta dark/light
+*color5: #d33682
+*color13: #6c71c4
+
+! Cyan dark/light
+*color6: #2aa198
+*color14: #586e75
+
+! White dark/light
+*color7: #073642
+*color15: #002b36

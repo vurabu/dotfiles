@@ -1,0 +1,34 @@
+*background: grey10
+*foreground: grey60
+
+! Black
+*color0: grey10
+*color8: grey30
+
+! Red
+*color1: tomato3
+*color9: tomato2
+
+! Green
+*color2:  DarkOliveGreen4
+*color10: DarkOliveGreen3
+
+! Yellow
+*color3:  DarkGoldenrod3
+*color11: DarkGoldenrod2
+
+! Blue
+*color4:  SteelBlue4
+*color12: SteelBlue3
+
+! Mangenta
+*color5:  HotPink4
+*color13: HotPink3
+
+! Cyan
+*color6:  aquamarine4
+*color14: aquamarine3
+
+! White
+*color7:  grey60
+*color15: grey70

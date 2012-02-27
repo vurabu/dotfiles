@@ -1,0 +1,16 @@
+#include "/home/vurabu/.xcolors/pew"
+
+!urxvt.font: -*-terminus-medium-*-*--14-*-*-*-*-*-iso10646-*
+urxvt.font: xft:Monospace:size=9
+urxvt.scrollBar: false
+urxvt.perl-ext-common: default,matcher
+urxvt.urlLauncher: /usr/bin/chromium
+urxvt.matcher.button: 1
+urxvt.urgentOnBell: true
+
+!Xft.dpi:       96
+!Xft.antialias: true
+Xft.rgba:      none
+!Xft.hinting:   true
+!Xft.hintstyle: hintfull
+Xft.lcdfilter: lcdnone
